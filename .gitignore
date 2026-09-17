@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# YOLO
+runs/
+*.pt
+
+# Dataset
+dataset/
+train/
+valid/
+test/
+
+# Generated events
+events/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
